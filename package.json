@@ -1,0 +1,16 @@
+{
+  "name": "yarn-test",
+  "version": "1.0.0",
+  "description": "Yarn package manager test.",
+  "main": "index.js",
+  "repository": {},
+  "author": "Josue Diaz",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^3.0.2",
+    "react": "^15.4.2"
+  },
+  "devDependencies": {
+    "babel": "^6.5.2"
+  }
+}
