@@ -7,7 +7,7 @@
   "author": "Josue Diaz",
   "license": "MIT",
   "dependencies": {
-    "nodemailer": "^3.0.2",
+    "nodemailer": "^6.4.16",
     "react": "^15.4.2"
   },
   "devDependencies": {
